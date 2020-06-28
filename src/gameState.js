@@ -125,7 +125,7 @@ const gameState = {
     this.dieTime = -1;
     this.poopTime = getNextPoopTime(this.clock);
     modFox("eating");
-    this.timeToStartCelebrating = this.clock + 1;
+    this.timeToStartCelebrating = this.clock + 2;
   },
   cleanUpPoop() {
     if (this.current !== "POOPING") {
