@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/paraggoyal28/foxgameJavascript.git",
   "author": "paraggoyal28 <2015uec1209@mnit.ac.in>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+     "dev": "parcel src/index.html" 
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
