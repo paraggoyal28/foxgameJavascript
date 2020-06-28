@@ -1,0 +1,9 @@
+{
+  "name": "foxgameJavascript",
+  "version": "1.0.0",
+  "description": "It is a game in javascript ",
+  "main": "index.js",
+  "repository": "https://github.com/paraggoyal28/foxgameJavascript.git",
+  "author": "paraggoyal28 <2015uec1209@mnit.ac.in>",
+  "license": "MIT"
+}
